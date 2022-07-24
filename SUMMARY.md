@@ -93,7 +93,7 @@
         * [7.3 Objective functions, metrics, and evaluation](contents/7.3-objective-functions,-metrics,-and-evaluation.md)
     * [Chapter 8. Machine learning algorithms](contents/chapter-8.-machine-learning-algorithms.md)
         * [8.1 Classical machine learning](contents/8.1-classical-machine-learning.md)
-            * [8.1.1 Overview: Basic algorithm](contents/8.1.1-overview:-basic-algorithm.md)
+            * [8.1.1 Overview: Basic algorithm](contents/8.1.1-overview-basic-algorithm.md)
             * [8.1.2 Questions](contents/8.1.2-questions.md)
         * [8.2 Deep learning architectures and applications](contents/8.2-deep-learning-architectures-and-applications.md)
             * [8.2.1 Natural language processing](contents/8.2.1-natural-language-processing.md)
